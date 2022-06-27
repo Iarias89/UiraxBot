@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Esta página web esta dedicada a un proveedor especializado en **movilidad electrica**.",
   "main": "server.js",
+  "engines": {
+    "node": "v16.15.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
